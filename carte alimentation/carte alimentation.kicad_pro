@@ -597,7 +597,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "ledt",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -613,6 +613,14 @@
     [
       "00c94f8b-f192-45be-a54d-31bfc924714b",
       "Root"
+    ],
+    [
+      "647e2ea2-4ff8-44df-a92c-57b1a59d45b2",
+      "led temoins"
+    ],
+    [
+      "8ec47f4f-3da5-40ee-876a-4f82262ff757",
+      "Connecteur"
     ]
   ],
   "text_variables": {}
